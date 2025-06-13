@@ -8,7 +8,7 @@ It allows users to upload an image, processes it using deep learning, and return
 
 ## 🚀 Demo
 
-Upload an image through the Streamlit interface, click "Classify Image", and get instant predictions with confidence scores.
+<img src = "SS.png" alt = "Screenshot">
 
 ---
 
