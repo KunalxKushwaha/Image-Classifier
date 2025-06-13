@@ -63,5 +63,5 @@ def main():
                         st.write(f"**{label}**: {score:.2%}")
                         
                         
-if __name__ == "__main__":
+if __name__ == "__main__": 
     main()
