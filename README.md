@@ -29,3 +29,5 @@ It allows users to upload an image, processes it using deep learning, and return
 ```bash
 git clone https://github.com/KunalxKushwaha/Image-Classifier.git
 cd Image-Classifier
+```
+# Author- Kunal Kushwaha✒️
