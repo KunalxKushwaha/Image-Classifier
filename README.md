@@ -27,5 +27,5 @@ Upload an image through the Streamlit interface, click "Classify Image", and get
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/KunalxKushwaha/Image Classifier.git
-cd ai-image-classifier
+git clone https://github.com/KunalxKushwaha/Image-Classifier.git
+cd Image-Classifier
