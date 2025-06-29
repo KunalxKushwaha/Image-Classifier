@@ -32,5 +32,9 @@ cd Image-Classifier
 
 pip install -r requirements.txt
 
+<h3>To run the Program:</h3>
+streamlit run app.py
+
+
 ```
 # Author- Kunal Kushwaha✒️
