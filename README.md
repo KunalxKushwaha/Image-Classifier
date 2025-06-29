@@ -34,6 +34,12 @@ streamlit run app.py
 ```
 
 ## 📂 Project Structure
+```
+image-classifier/
+├── app.py                # Main Streamlit app file
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
 
+```
 
 # Author- Kunal Kushwaha✒️
