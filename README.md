@@ -29,8 +29,6 @@ It allows users to upload an image, processes it using deep learning, and return
 ```bash
 git clone https://github.com/KunalxKushwaha/Image-Classifier.git
 cd Image-Classifier
-
-Install The Dependencies:
 pip install -r requirements.txt
 
 To run the Program:
