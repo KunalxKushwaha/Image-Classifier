@@ -31,7 +31,9 @@ git clone https://github.com/KunalxKushwaha/Image-Classifier.git
 cd Image-Classifier
 pip install -r requirements.txt
 streamlit run app.py
-
-
 ```
+
+## 📂 Project Structure
+
+
 # Author- Kunal Kushwaha✒️
