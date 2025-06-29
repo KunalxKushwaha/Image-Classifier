@@ -30,9 +30,10 @@ It allows users to upload an image, processes it using deep learning, and return
 git clone https://github.com/KunalxKushwaha/Image-Classifier.git
 cd Image-Classifier
 
+Install The Dependencies:
 pip install -r requirements.txt
 
-<h3>To run the Program:</h3>
+To run the Program:
 streamlit run app.py
 
 
