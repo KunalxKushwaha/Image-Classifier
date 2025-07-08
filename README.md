@@ -14,7 +14,7 @@ It allows users to upload an image, processes it using deep learning, and return
 
 ## 📸 Features
 
-- 🧠 Uses **MobileNetV2**, a lightweight CNN model trained on ImageNet
+- 🧠 Uses **MobileNetV2**, a lightweight CNN model trained on ImageNet.
 - 🖼️ Allows image uploads in `.jpg` and `.png` formats.
 - 🔄 Preprocesses the image for optimal classification results.
 - 📈 Displays the **top 3 predictions** with probability scores.
