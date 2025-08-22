@@ -35,10 +35,12 @@ python -m streamlit run .\main.py
 ```
 
 ## 📂 Project Structure
+```bash
 image-classifier/
 ├── app.py                # Main Streamlit app file
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
+```
 
 ## 🌟 Uniqueness of the Project
 1. Real-Time AI in the Browser<br>
